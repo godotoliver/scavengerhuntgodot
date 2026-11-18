@@ -6,7 +6,7 @@ If you REALLY want to, you can download each project as a ZIP file and import it
 
 Here's a project list:
 
-##Bronze Belt
+Bronze Belt
 
   • Dropping Bombs (not included, it has multiple parts)
   
@@ -32,7 +32,7 @@ Here's a project list:
   
   • Dropping Bombs 6 (included, final version)
   
-##Silver Belt
+Silver Belt
  
   • Robomania
   
